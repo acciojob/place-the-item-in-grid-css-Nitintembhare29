@@ -7,7 +7,6 @@
   width: 200px;
   height: 200px;
 }
-This code creates a grid container element with class "holder". The grid-template-columns and grid-template-rows properties are set to repeat 2 times with a value of 1fr, resulting in 2 columns and 2 rows. The width and height of the container element are also set to 200px. The items within the container element will be automatically positioned based on the grid layout.
 
 
 
